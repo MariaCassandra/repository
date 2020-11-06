@@ -1,3 +1,0 @@
-Estoy aprendiendo cómo funciona Git.
-
-Antes no llegué hacer el push.
